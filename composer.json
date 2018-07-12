@@ -1,9 +1,10 @@
 {
-	"name" : "aidphp/renderer-interop",
+	"name" : "aidphp/template-interop",
 	"type" : "library",
-	"description" : "Renderers interoperability",
+	"description" : "Template rendering interoperability",
 	"license" : "MIT",
 	"keywords" : [
+		"template",
 		"renderer",
 		"renderer-interface"
 	],

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Interop\Renderer;
+namespace Interop\Template;
 
 interface RendererInterface
 {
