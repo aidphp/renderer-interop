@@ -1,0 +1,22 @@
+{
+	"name" : "aidphp/renderer-interop",
+	"type" : "library",
+	"description" : "Renderers interoperability",
+	"license" : "MIT",
+	"keywords" : [
+		"renderer",
+		"renderer-interface"
+	],
+	"authors" : [{
+			"name" : "Maxime Bourmaut"
+		}
+	],
+	"require" : {
+		"php" : ">=7.0.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Interop\\Renderer\\" : "src/"
+		}
+	}
+}
